@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="uBS/uBS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="uBS/Program.cs">
+    <Files>
+      <File FileName="uBS/Program.cs" Line="275" Column="46" />
+      <File FileName="uBS/ExportScript.cs" Line="1" Column="1" />
+      <File FileName="uBS/CodePage.cs" Line="1" Column="1" />
+      <File FileName="uBS/ImageConv.cs" Line="1" Column="1" />
+      <File FileName="uBS/Palette.cs" Line="1" Column="1" />
+      <File FileName="uBS/Comp.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
