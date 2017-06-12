@@ -1,4 +1,4 @@
-# Berwick Saga Resource extraction
+# Berwick Saga Media extraction
   
 # Usage:  
 Copy DATA3.DAT and DATA4.DAT from game disc to program folder. Then Run uBS.exe.  
