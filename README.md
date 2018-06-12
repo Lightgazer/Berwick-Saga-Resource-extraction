@@ -7,4 +7,4 @@ Note: On Linux you should run it with mono.
   
 # Contacts  
 Twitter: https://twitter.com/Lightgazer   
-Telegram: https://t.me/@Lightgazer
+Telegram: https://t.me/Lightgazer
